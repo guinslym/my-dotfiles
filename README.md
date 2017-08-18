@@ -25,6 +25,12 @@ My dotfiles. Primarly for ArchLinux based machine but overall can be use with mo
     21. Android-Studio
     22. Expo ide
     23. Whisker (Menu manager --- Need to add it to the windows panel + )
+    24. Asciidoc
+        1. irb (and quit)
+        2. add this into ~./bashrc PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
+        3. gem list
+        4. yaourt install asciidoc
+        5. gem install asciidoctor
 2. Through the terminal
     1. sudo pacman -S exfat-utils fuse-exfat a52dec faac faad2 flac jasper lame libdca libdv gst-libav libmad libmpeg2 libtheora libvorbis libxv wavpack x264 xvidcore gstreamer0.10-plugins flashplugin libdvdcss libdvdread libdvdnav gecko-mediaplayer dvd+rw-tools dvdauthor dvgrab (thoses might be already installed in Antergos)
     2. yaourt jdk
