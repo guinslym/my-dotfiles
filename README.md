@@ -21,7 +21,7 @@ My dotfiles. Primarly for ArchLinux based machine but overall can be use with mo
     17. git-it
     18. python-pip
     19. calibre-installer
-    20. Kubernetes
+    20. kitematic (takes time +- 12 min.)
     21. Android-Studio
     22. Expo ide
     23. Whisker (Menu manager --- Need to add it to the windows panel + )
