@@ -21,6 +21,7 @@ My dotfiles. Primarly for ArchLinux based machine but overall can be use with mo
     17. git-it
     18. python-pip
     19. calibre-installer
+    20. Kubernetes
 2. Through the terminal
     1. sudo pacman -S exfat-utils fuse-exfat a52dec faac faad2 flac jasper lame libdca libdv gst-libav libmad libmpeg2 libtheora libvorbis libxv wavpack x264 xvidcore gstreamer0.10-plugins flashplugin libdvdcss libdvdread libdvdnav gecko-mediaplayer dvd+rw-tools dvdauthor dvgrab (thoses might be already installed in Antergos)
     2. yaourt jdk
