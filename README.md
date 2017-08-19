@@ -23,8 +23,8 @@ My dotfiles. Primarly for ArchLinux based machine but overall can be use with mo
     19. calibre-installer
     20. kitematic (takes time +- 12 min.)
     21. Android-Studio
-        1. https://www.youtube.com/watch?v=46LPHga49xk&t=100s
-        2. I move my android-studio (extracted) to /Documents
+        1. https://wiki.archlinux.org/index.php/android 
+        2. Follow all the instruction and make sure that AVD (Android virtual device) works 
     22. Expo ide
     23. Whisker (Menu manager --- Need to add it to the windows panel + )
     24. Asciidoc
