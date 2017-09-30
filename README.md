@@ -55,3 +55,6 @@ My dotfiles. Primarly for ArchLinux based machine but overall can be use with mo
     4. sudo pacman -S virtualbox
     5. sudo pacman -S aria2
     6. sudo pacman -S bleachbit
+
+youtube-video
+1.  https://www.youtube.com/watch?v=Dj7co2R7RKw
